@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hamlet_Login_Sample</string>
+    <string name="hamlet">Hamlet</string>
+    <string name="well_come">Well come! \n\nSmile a little for you have tried.</string>
+</resources>
